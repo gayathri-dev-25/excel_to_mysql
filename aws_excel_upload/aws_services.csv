@@ -1,0 +1,18 @@
+Service,Description,Ownership,Status,Estimated Time
+SES,email service,Veditha,Completed,
+SNS,notifications/events,Veditha,Completed,
+SQS,message queueing,Veditha,Completed,
+S3,static/media,Veditha,Completed,
+EC2,Django app host,Veditha,In-progress,3-4 days
+RDS,MySQL database,Sahini,Yet-to-start,2-3 days
+Rout53,DNS + HTTPS,Shriya,Yet-to-start,1 day
+ACM,DNS + HTTPS + traffic distribution,Shriya,Yet-to-start,1 day
+Load Balancer,Traffic distribution,Shriya/Veditha,Yet-to-start,1 day
+VPC +Subnets + IGW +NAT,,Shriya/veditha,Yet-to-start,3-4 days
+Secret Manager,secure credentials,Sahini,In-progress,1 day
+KMS,key storage,Sahini,Yet-to-start,1 day
+Cloudwatch,monitoring and logging,Veditha,In-progress,2 days
+DynamoDB,managed NoSQL database for key-value and document,Team,Yet-to-start,3 days
+AWS API gateway,secure and monitor APIs,Sahini,In-progress,2 days
+Data Encryption,Encrypting data for security.,Sahini,,
+
